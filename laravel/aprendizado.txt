@@ -1,1 +1,0 @@
-Segui o curso do canal no Youtube WebDev Hacks para fazer um site estático "staticsite" e lista de tarefas "todolist"
